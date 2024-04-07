@@ -1,6 +1,4 @@
-<img  alt="Coding" src="https://media.licdn.com/dms/image/D4D12AQG1-1xLPzoLsw/article-cover_image-shrink_600_2000/0/1653971382299?e=2147483647&v=beta&t=sAo-4ZNUKeumSJT2alOBWHjxxYaIzckVDLNoQtKUPY8" width= 100% height=210px>
 Hi My name is Hayk
-
 
 FrontEnd Developer
 ------------------
