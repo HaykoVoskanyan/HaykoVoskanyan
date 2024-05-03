@@ -4,7 +4,7 @@ FrontEnd Developer
 ------------------
 👨‍💻 About Me
 -----------------
-I am a beginner Web Developer who has been programming for 1.5 years, first I learned HTML, CSS, SCSS, JavaScript by myself, then I deepened my learning using React and Redux library. Currently continuing my studies learning Node Js.
+I am a Web Developer who has been programming for 1.5 years, first I learned HTML, CSS, SCSS, JavaScript by myself, then I deepened my learning using React and Redux library. Currently continuing my studies learning Node Js.
 
 * 🌍  I'm based in Armenia Erevan
 * 🖥️  See my portfolio at [My Portfolio](http://github.com/HaykoVoskanyan?tab=repositories)
