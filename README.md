@@ -1,16 +1,22 @@
 Hi My name is Hayk
 ==================================================================
-FrontEnd Developer
+Software Developer
 ------------------
 👨‍💻 About Me
 -----------------
-I am a Web Developer who has been programming for 1.5 years, first I learned HTML, CSS, SCSS, JavaScript by myself, then I deepened my learning using React and Redux library. Currently continuing my studies learning Node Js.
+Welcome to My GitHub Profile! 🚀
+
+Hello! I'm a passionate Full Stack Developer with a robust background in both front-end and back-end technologies. My skill set includes modern web technologies such as HTML5, CSS, Sass, Bootstrap, and Tailwind CSS, along with JavaScript and TypeScript. On the front-end, I work extensively with frameworks like React, Redux, and Next.js.
+
+On the back-end, I have hands-on experience with Express.js, Node.js, and MongoDB, which enables me to build dynamic and scalable applications. My projects showcase my ability to deliver responsive, user-friendly web solutions, as well as robust server-side functionalities.
+
+Here, you'll find a collection of my personal and collaborative projects, demonstrating my commitment to continuous learning and innovation. I believe in writing clean, efficient code and am always exploring new technologies and best practices to enhance my development skills.
+
+Feel free to explore my repositories, check out my code, and connect with me if you have any questions or opportunities for collaboration. Let’s build something amazing together!
 
 * 🌍  I'm based in Armenia Erevan
-* 🖥️  See my portfolio at [My Portfolio](http://github.com/HaykoVoskanyan?tab=repositories)
 * ✉️  You can contact me at [hayk.voskanyan96@gmail.com](mailto:hayk.voskanyan96@gmail.com)
-* 🧠  I'm learning Node Js
-* ⚡  I have completed works in my repository section
+
 
 
 ### Skills
